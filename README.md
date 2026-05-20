@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Jonathan 👋
 
-<!--
-**jonathanjaimesdiaz/jonathanjaimesdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity AAS graduate from Truckee Meadows Community College (May 2026), based in Reno, NV. Bilingual in English and Spanish. Actively looking for an entry-level role in IT support, help desk, or SOC analysis.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- **AAS, Cybersecurity / Computer Information Technology** — TMCC, 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Coursework Highlights
+Ethical Hacking · Network+ · Server+ · CCNA Internetworking · Linux System Administration · Database Concepts & SQL · Introduction to Cybersecurity
+
+## 🛠️ Skills
+- **Security:** Wireshark, Kali Linux, vulnerability assessment, packet analysis
+- **Networking:** Cisco Packet Tracer, TCP/IP, CCNA fundamentals
+- **Systems:** Linux administration, Windows Server, VMware
+- **Programming:** Java, JavaScript, HTML, SQL
+
+## 📂 Featured Projects
+- **Java OOP Final Project** — Object-oriented application with classes, arrays, exception handling
+- **JavaScript Person Manager** — Web app with JSON data loading and dynamic form validation
+- **Project Management Plan** — 74-page end-to-end project lifecycle document
+
+## 📫 Contact
+- Email: jaimesdiazjonathan24@gmail.com 

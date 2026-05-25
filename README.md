@@ -17,7 +17,7 @@ Ethical Hacking · Network+ · Server+ · CCNA Internetworking · Linux System A
 ## 📂 Featured Projects
 - **Java OOP Final Project** — Object-oriented application with classes, arrays, exception handling
 - **JavaScript Person Manager** — Web app with JSON data loading and dynamic form validation
-- **Project Management Plan** — 74-page end-to-end project lifecycle document
+- **Project Management Plan** — A full-lifecycle project management plan
 
 ## 📫 Contact
 - Email: jaimesdiazjonathan24@gmail.com 
